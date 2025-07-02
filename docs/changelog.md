@@ -4,3 +4,5 @@
 ### feat: add verification cross-ref and family tree pedigree - 2025-06-18T14:20:00+05:30
 
 ### feat: add timeline, sources, documents census/ship - 2025-06-25T09:30:00+05:30
+
+### feat: add matching, search, frontend tree viz - 2025-07-02T11:00:00+05:30
