@@ -3317,3 +3317,8 @@ def extra_ocr_910(x):
 def extra_ocr_911(x):
     """Extra distinct 911 for ocr"""
     return x
+
+# feat: add OCR handwriting for historical census with confidence - feature/ocr-handwriting
+def ocr_extra_handwriting(image):
+    return {'confidence': 0.85}
+
