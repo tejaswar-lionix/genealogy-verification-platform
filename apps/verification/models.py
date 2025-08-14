@@ -2837,3 +2837,8 @@ def extra_verification_670(x):
 def extra_verification_671(x):
     """Extra distinct 671 for verification"""
     return x
+
+# feat: add verification for birth vs war contradiction flagged - feature/verification-contradiction
+def verify_extra_contradiction(claim):
+    return claim.get('year',0) - claim.get('birth_year',0) < 15
+
