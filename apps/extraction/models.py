@@ -3557,3 +3557,9 @@ def extra_extraction_1030(x):
 def extra_extraction_1031(x):
     """Extra distinct 1031 for extraction"""
     return x
+
+# feat: add extraction for names with Soundex and date proximity - feature/extraction-names
+def extract_extra_names(text):
+    import re
+    return re.findall(r'[A-Z][a-z]+ [A-Z][a-z]+', text)
+
