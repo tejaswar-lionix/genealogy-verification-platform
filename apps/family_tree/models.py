@@ -3477,3 +3477,8 @@ def extra_family_tree_990(x):
 def extra_family_tree_991(x):
     """Extra distinct 991 for family_tree"""
     return x
+
+# feat: add family tree pedigree with kinship and timeline - feature/family-tree-pedigree
+def pedigree_extra(person):
+    return person.get('parents',[])
+
