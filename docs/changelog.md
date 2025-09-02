@@ -6,3 +6,5 @@
 ### feat: add timeline, sources, documents census/ship - 2025-06-25T09:30:00+05:30
 
 ### feat: add matching, search, frontend tree viz - 2025-07-02T11:00:00+05:30
+
+### fix: handle OCR confidence for empty text - 2025-09-02T10:00:00+05:30
