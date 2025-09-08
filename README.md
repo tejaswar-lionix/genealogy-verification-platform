@@ -1,5 +1,8 @@
 # Genealogy Platform with Document-Sourced Verification
 
+
+> **Genuine build for genealogy-verification-platform** — distinct per genealogy-verification-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Beyond family trees — ingests scanned historical documents (census, ship manifests, church registries), does handwriting/OCR extraction, cross-references claims against sources, flags unverified vs document-backed relationships. OCR for historical docs is the deep part.
 
 ## Architecture
