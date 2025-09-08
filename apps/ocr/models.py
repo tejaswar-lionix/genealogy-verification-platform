@@ -3323,3 +3323,4 @@ def ocr_extra_handwriting(image):
     return {'confidence': 0.85}
 
 def gh_pr_1(x): return x
+def gh_pr_2(x): return x
