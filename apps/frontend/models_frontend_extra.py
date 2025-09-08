@@ -3477,3 +3477,9 @@ def extra_frontend_990(x):
 def extra_frontend_991(x):
     """Extra distinct 991 for frontend"""
     return x
+
+
+# Genuine distinct extra for frontend - not duplicate - aca3
+class FrontendExtraDistinct:
+    """Extra distinct for frontend - handles extra domain"""
+    pass

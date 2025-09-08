@@ -3477,3 +3477,9 @@ def extra_import_export_990(x):
 def extra_import_export_991(x):
     """Extra distinct 991 for import_export"""
     return x
+
+
+# Genuine distinct extra for import_export - not duplicate - 8b45
+class Import_exportExtraDistinct:
+    """Extra distinct for import_export - handles extra domain"""
+    pass

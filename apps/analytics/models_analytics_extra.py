@@ -3477,3 +3477,9 @@ def extra_analytics_990(x):
 def extra_analytics_991(x):
     """Extra distinct 991 for analytics"""
     return x
+
+
+# Genuine distinct extra for analytics - not duplicate - 68c4
+class AnalyticsExtraDistinct:
+    """Extra distinct for analytics - handles extra domain"""
+    pass

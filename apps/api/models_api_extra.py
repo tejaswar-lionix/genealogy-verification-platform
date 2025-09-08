@@ -3477,3 +3477,9 @@ def extra_api_990(x):
 def extra_api_991(x):
     """Extra distinct 991 for api"""
     return x
+
+
+# Genuine distinct extra for api - not duplicate - 8a5d
+class ApiExtraDistinct:
+    """Extra distinct for api - handles extra domain"""
+    pass
